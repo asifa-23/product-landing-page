@@ -1,5 +1,5 @@
 # product-landing-page
-visit site at: https://asifa-23.github.io/product-landing-page/main.html
+visit site at:https://asifa-23.github.io/product-landing-page/
 ## An example page of a product i.e cakes
 where you can explore the cakes of different flavours.
 ### Here in this repository main.html is the main code which is to be run .
